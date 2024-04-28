@@ -56,6 +56,6 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 - OpenCV: [Open Source Computer Vision Library](https://opencv.org/)
 
 ## Author
-[deebaadithya](https://github.com/deebaadithya)
+[deebaadithya](https://github.com/deebadithya)
 
 For any questions or support, please [open an issue](https://github.com/your_username/human-motion-recognition/issues).
